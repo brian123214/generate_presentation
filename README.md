@@ -8,7 +8,7 @@ Run ```pip install -r requirements.txt```
 and get openai and stabilityai api keys
 
 
-### 1. Input english assignment's task:
+### 1. Input english assignment task:
 
 Please read the assigned poem and create a presentation for the class. The presentation should take about 10-15 minutes and include the following: You must begin the presentation reading the poem aloud. Your slides must include but in no specific order: 1. an explanation of the title 2. identify an image and explain its significance to the poem 3. identify and explain three lines from the poem--image, meaning, 4.  provide biographical information about the author--current position, 5. engage the class with a question that they must answer in the written form- the question may be posed  6. include any images, videos, or sound that you think will enhance our 7. answer the question: Why did Billy Collins choose to include this poem in the collection?
 
